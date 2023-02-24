@@ -1,0 +1,6 @@
+github.com/MartinZitterkopf/example_external v1.0.1 h1:5OWemOzGEp7ny+HHnf7wRoNzgmoilM4F3yMKNd1n/Ew=
+github.com/MartinZitterkopf/example_external v1.0.1/go.mod h1:MDD/jtPPF8X5ePQCd7CzBFu5Kcis5+9XG1MI/65MAdw=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
